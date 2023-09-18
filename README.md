@@ -1,4 +1,4 @@
-![Streak Stats](https://streak-stats.demolab.com/?user=gojaeng&hide_border=true&stroke=82B3ED&ring=82B3ED&fire=82B3ED&currStreakNum=E0EBFF&currStreakLabel=82B3ED&sideLabels=82B3ED&sideNums=E0EBFF&bg_color=EBEBEB00&hide_border=true)
+![Streak Stats](https://streak-stats.demolab.com/?user=gojaeng&hide_border=true&background=EBEBEB00&stroke=82B3ED&ring=82B3ED&fire=82B3ED&currStreakNum=E0EBFF&currStreakLabel=82B3ED&sideLabels=82B3ED&sideNums=E0EBFF&bg_color=EBEBEB00)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gojaeng&layout=compact&title_color=82B3ED&hide_border=true&bg_color=EBEBEB00)
 
 
