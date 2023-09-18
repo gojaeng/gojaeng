@@ -1,5 +1,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gojaeng&layout=compact&title_color=82B3ED)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gojaeng&layout=compact&title_color=82B3ED)
 ![아이디's github stats](https://github-readme-stats.vercel.app/api?username=gojaeng&show_icons=true&title_color=82B3ED)
 ![Streak Stats](https://streak-stats.demolab.com/?user=gojaeng&hide_border=true&background=C8D7FF&stroke=82B3ED&ring=82B3ED&fire=82B3ED&currStreakNum=E0EBFF&currStreakLabel=82B3ED&sideLabels=82B3ED&sideNums=E0EBFF)
 
