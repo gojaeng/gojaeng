@@ -1,4 +1,4 @@
-안녕하세요, 고재현입니다😀
+<p>안녕하세요, 고재현입니다😀</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=gojaeng&hide_border=true&background=EBEBEB00&stroke=82B3ED&ring=82B3ED&fire=82B3ED&currStreakNum=E0EBFF&currStreakLabel=82B3ED&sideLabels=82B3ED&sideNums=E0EBFF&bg_color=EBEBEB00" alt="Streak Stats">
