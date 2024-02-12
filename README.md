@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ![아이디's github stats](https://github-readme-stats.vercel.app/api?username=gojaeng&show_icons=true&title_color=82B3ED)
 -->
+<!--
  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
@@ -32,4 +33,5 @@ Here are some ideas to get you started:
   <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+-->
 
